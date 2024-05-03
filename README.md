@@ -11,3 +11,4 @@ When the player clicks on a button to choose rock, paper, or scissors, the JavaS
 
 
 
+![Screenshot 2024-05-03 204935](https://github.com/Prakashraj2878/Rock_Paper_Scissor_Game/assets/158838983/86e216c6-cc53-4e79-a418-72289957e574)
